@@ -1,1 +1,1 @@
-.gitattributes
+*.sql linguist-language=SQL
